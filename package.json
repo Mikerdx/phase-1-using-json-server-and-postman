@@ -1,9 +1,10 @@
 {
   "name": "using-json-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Learning Goals",
   "main": "index.js",
   "directories": {
+    "example": "example",
     "test": "test"
   },
   "scripts": {
@@ -17,5 +18,14 @@
     "jsdom": "^9.0",
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikerdx/phase-1-using-json-server-and-postman.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Mikerdx/phase-1-using-json-server-and-postman/issues"
+  },
+  "homepage": "https://github.com/Mikerdx/phase-1-using-json-server-and-postman#readme"
 }
